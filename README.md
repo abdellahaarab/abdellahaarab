@@ -3,13 +3,13 @@
   
 ![trophies](https://github-profile-trophy.vercel.app/?username=abdellahaarab&column=6&no-bg=false&no-frame=false)
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F74A46&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Abdellah+Aarab;Welcome+to+My+Profile!;Over+1+years+of+programming+experience;Always+learning+new+things+;Laravel+Flutter+Java+Django+React+Vue+Adobe+And+More)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F74A46&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Abdellah+Aarab;Welcome+to+My+Profile!;Over+1+years+of+programming+experience;Always+learning+new+things+;Laravel+Flutter+Java+Django+;React+Vue+Adobe+And+More)](https://git.io/typing-svg)
 
 
 ![](https://komarev.com/ghpvc/?username=abdellahaarab)
 
 [![Facebook URL](https://img.shields.io/static/v1?color=brightgreen&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=follow)](https://www.facebook.com/dabdellahaarab)
-[![Github URL](https://img.shields.io/static/v1?color=brightgreen&label=GITHUB&logo=Github&logoColor=white&style=for-the-badge&message=follow)](https://www.facebook.com/dabdellahaarab)
+[![Github URL](https://img.shields.io/static/v1?color=brightgreen&label=GITHUB&logo=Github&logoColor=white&style=for-the-badge&message=follow)](https://github.com/abdellahaarab)
 [![Twitter URL](https://img.shields.io/static/v1?color=brightgreen&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/deepxculture)
 [![Instagram URL](https://img.shields.io/static/v1?color=brightgreen&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=follow)](https://www.instagram.com/deep.x.culture)
 [![Youtube URL](https://img.shields.io/static/v1?color=brightgreen&label=Youtube&logo=Youtube&logoColor=white&style=for-the-badge&message=follow)](https://www.linkedin.com/in/abdellahaarab)
