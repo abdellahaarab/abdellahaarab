@@ -30,7 +30,7 @@ Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e32596
 
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=abdellahaarab&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=abdellahaarab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abdellahaarab&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdellahaarab&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
   </div> 
