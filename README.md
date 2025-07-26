@@ -1,7 +1,7 @@
 
 <div align="center">
   
-![trophies](https://github-profile-trophy.vercel.app/?username=abdellahaarab&column=8&no-bg=false&no-frame=false)
+![trophies](https://github-profile-trophy.vercel.app/?username=abdellahaarab&column=10&no-bg=false&no-frame=false)
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F74A46&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Abdellah+Aarab;Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things+;Laravel+Flutter+Java+Django+;React+Vue+Adobe+And+More)](https://git.io/typing-svg)
 
