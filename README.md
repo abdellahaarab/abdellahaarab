@@ -13,7 +13,9 @@
 [![Twitter URL](https://img.shields.io/static/v1?color=brightgreen&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://x.com/deabdellahaarab)
 [![Instagram URL](https://img.shields.io/static/v1?color=brightgreen&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=follow)](https://www.instagram.com/d.abdellah.aarab)
 [![Gitlab URL](https://img.shields.io/static/v1?color=brightgreen&label=Gitlab&logo=Gitlab&logoColor=white&style=for-the-badge&message=follow)](https://gitlab.com/abdellahaarab)
+[![Threads URL](https://img.shields.io/static/v1?color=brightgreen&label=threads&logo=threads&logoColor=white&style=for-the-badge&message=follow)](https://www.threads.com/@d.abdellah.aarab)
 [![LinkedIn URL](https://img.shields.io/static/v1?color=brightgreen&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/abdellahaarab)
+
 
 <br />
 <br />
