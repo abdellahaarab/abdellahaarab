@@ -10,8 +10,8 @@
 
 [![Facebook URL](https://img.shields.io/static/v1?color=brightgreen&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=follow)](https://www.facebook.com/dabdellahaarab)
 [![Github URL](https://img.shields.io/static/v1?color=brightgreen&label=GITHUB&logo=Github&logoColor=white&style=for-the-badge&message=follow)](https://github.com/abdellahaarab)
-[![Twitter URL](https://img.shields.io/static/v1?color=brightgreen&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/deepxculture)
-[![Instagram URL](https://img.shields.io/static/v1?color=brightgreen&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=follow)](https://www.instagram.com/deep.x.culture)
+[![Twitter URL](https://img.shields.io/static/v1?color=brightgreen&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://x.com/deabdellahaarab)
+[![Instagram URL](https://img.shields.io/static/v1?color=brightgreen&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=follow)](https://www.instagram.com/d.abdellah.aarab)
 [![Gitlab URL](https://img.shields.io/static/v1?color=brightgreen&label=Gitlab&logo=Gitlab&logoColor=white&style=for-the-badge&message=follow)](https://gitlab.com/abdellahaarab)
 [![LinkedIn URL](https://img.shields.io/static/v1?color=brightgreen&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/abdellahaarab)
 
